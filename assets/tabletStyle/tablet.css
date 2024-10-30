@@ -1,0 +1,36 @@
+h1 {
+  color: #742305;
+}
+
+.cards-shop {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.news {
+  padding: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #fbf7e3;
+  overflow: hidden;
+  border-radius: 30px;
+  color: #612406;
+}
+
+.news h3 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.news img {
+  width: 100%;
+}
+
+footer h2 {
+  font-weight: 600px;
+  font-size: 40px;
+  color: #612406;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,13 @@
+#main-mobile {
+  display: flex;
+  flex-wrap: wrap;
+  width: 40%;
+  background-color: #fbf7e3;
+  overflow: hidden;
+  border-radius: 30px;
+  color: #612406;
+}
+
+img {
+  width: 100%;
+}
